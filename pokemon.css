@@ -1,0 +1,101 @@
+.large
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 21;
+    height: 2px;
+     
+}
+.goa{
+    height: 60px;
+}
+.am
+{
+    margin-left: 450px;
+}
+.navbar-dark .navbar-nav .nav-link
+{
+    color: azure;
+    }
+.carousel
+{
+    height: 400px;
+    margin-bottom: 50px;
+}
+.carousel-inner > .carousel-item > img{
+    position: absolute;
+    height: 400px;
+    min-width: 100%;
+    top: 0;
+    left: 0;
+}
+.carousel-item
+{
+    height: 400px;
+}
+.smk
+{
+    top: -5px;
+    margin-top: 180px;
+}
+.large > .container
+{
+    padding-left: 0;
+    padding-right: 0;        
+}
+.lko
+{
+    margin-left: 50px;
+}
+.container
+{
+    width: auto;
+}
+.you
+{
+    
+    margin-top: 370px;
+    height: 340px; 
+    
+    }
+.bot
+{
+    background-color: rgb(231,230,232);
+    color: black;
+}
+.you .col-lg-4
+{
+    text-align: center;
+}
+.you p
+{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.team
+{
+    margin-top: 330px;
+}
+.mickey
+{
+    padding: 50px;
+    text-align: center;
+    padding-top: 120px;
+}
+.mom
+{
+    padding: 40px;
+    padding-left: 60px;
+}
+.tom
+{
+    
+}
+.active{
+    padding-top: 0px;
+    
+}
+
+
